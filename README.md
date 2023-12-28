@@ -1071,7 +1071,7 @@
 
 # Ссылка на Инфостарт
 
-Эта статья доступна на Инфостарт - https://infostart.ru/public/1558366/
+Эта статья доступна на ![Infostart](img/infostart.svg) - https://infostart.ru/public/1558366/
 
 # Благодарность
 
