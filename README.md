@@ -1071,7 +1071,7 @@
 
 # Ссылка на Инфостарт
 
-Эта статья доступна на [<img title="Infostart" alt="Infostart" src="img/Infostart.svg">](https://infostart.ru) - https://infostart.ru/public/1558366/
+Эта статья доступна на [<img title="Infostart" alt="Infostart" src="img/infostart.svg">](https://infostart.ru) - https://infostart.ru/public/1558366/
 
 # Благодарность
 
