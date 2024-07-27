@@ -1,11 +1,11 @@
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/2/652473121.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=a1ea69ead78646a3be12d9ad19233a5f&amp;pm=s) [![Static Badge](https://img.shields.io/badge/my%20telegram-channel-green)](https://t.me/AriN1C) [![Static Badge](https://img.shields.io/badge/infostart-profile-green)](http://infostart.ru/profile/237528/)
+
 # Шаблоны новых объектов 1С для 1С:Бухгалтерия предприятия
 
 ![Splash](img/SplashForStart.gif)
 
 Используется для создания новых объектов в конфигурации, чтобы не забыть, что нужно сделать.
 Сделано на примере 1С:Бухгалтерия предприятия, в других конфигурациях могут быть другие, а могут быть и похожие объекты.
-
-Репозиторий входит в ТОП - [![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/2/652473121.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=a1ea69ead78646a3be12d9ad19233a5f&amp;pm=s)
 
 - [Шаблоны новых объектов 1С для 1С:Бухгалтерия предприятия](#шаблоны-новых-объектов-1с-для-1сбухгалтерия-предприятия)
 - [Константы](#константы)
